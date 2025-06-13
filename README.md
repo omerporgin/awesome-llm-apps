@@ -15,7 +15,7 @@
 
 <hr/>
 
-# 🌟 Awesome LLM Apps
+# 🌟 Awesome LLM Appss
 
 A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agent Teams, MCP, Voice Agents, and more.** This repository features LLM apps that use models from OpenAI, Anthropic, Google, and open-source models like DeepSeek, Qwen or Llama that you can run locally on your computer.
 
